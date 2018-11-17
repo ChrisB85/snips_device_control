@@ -1,1 +1,1 @@
-"# snips_turn_on_off" 
+Device control action
